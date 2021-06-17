@@ -1,0 +1,48 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background: white;
+}
+.nav-bg{
+  width: 100%;
+  background: #b5db90;
+  height: 80px;
+}
+.nav-bg .nav-wrapper{
+  width: 80%;
+  margin: auto;
+  background: green;
+  height: 80px;
+}
+
+.nav-bg .nav-wrapper .logo{
+  width: 30%;
+  background: black;
+  display: inline-block;
+}
+.nav-bg .nav-wrapper .search-box{
+  display: inline-block;
+  width: 40%;
+  margin-left: 1%;
+}
+
+.nav-bg .nav-wrapper .search-box input{
+  width: 90%;
+  margin: auto;
+  font-size:30px;
+}
+
+.nav-wrapper .logo img{
+  width: 50%;
+}
+.wrapper{
+  width: 80%;
+  height: 2000px;
+  background: red;
+  margin: auto;
+}
+
+.
